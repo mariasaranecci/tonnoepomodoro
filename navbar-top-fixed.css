@@ -1,0 +1,7 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 0rem;
+  padding-top: 100rem;
+  color: #d13030;
+  border-bottom: 1px solid #d13030;
+}
